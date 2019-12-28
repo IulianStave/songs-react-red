@@ -1,4 +1,4 @@
-import { combineReducers } from 'reducers';
+import { combineReducers } from 'redux';
 
 // Reducers
 // A static list of songs songsReducer
